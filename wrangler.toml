@@ -1,6 +1,2 @@
-name = ""
-type = "javascript"
-account_id = ""
-workers_dev = true
-route = ""
-zone_id = ""
+name = "placeholder"
+compatibility_date = "2022-09-28"
